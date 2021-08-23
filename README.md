@@ -1,0 +1,2 @@
+# exercicios
+refazendo exercicios
